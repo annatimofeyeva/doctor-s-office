@@ -1,2 +1,19 @@
+.well {
+  margin-top: 90px;
+  margin-left: 50px;
+  width: 1500px;
+  border-radius: 10px; }
 
-/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJzdHlsZXMuc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIiXSwiZmlsZSI6InN0eWxlcy5jc3MifQ== */
+body {
+  background-image: url("http://cwebhealth.com/wp-content/uploads/2015/04/abstract-medical-concept-with-pills-on-shiny-waves-background_GyIQ0N0O.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+#issue {
+  font-size: 24px;
+  width: 7%; }
+
+#medicalissue {
+  width: 35%; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGVzLmNzcyIsInNvdXJjZXMiOlsic3R5bGVzLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLndlbGx7XG4gIG1hcmdpbi10b3A6IDkwcHg7XG4gIG1hcmdpbi1sZWZ0OiA1MHB4O1xuICB3aWR0aDogMTUwMHB4O1xuICBib3JkZXItcmFkaXVzOiAxMHB4O1xufVxuYm9keSB7XG4gIGJhY2tncm91bmQtaW1hZ2U6IHVybChcImh0dHA6Ly9jd2ViaGVhbHRoLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC9hYnN0cmFjdC1tZWRpY2FsLWNvbmNlcHQtd2l0aC1waWxscy1vbi1zaGlueS13YXZlcy1iYWNrZ3JvdW5kX0d5SVEwTjBPLmpwZ1wiKTtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcbiAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcblxufVxuI2lzc3VlIHtcbiAgZm9udC1zaXplOiAyNHB4O1xuICB3aWR0aDogNyU7XG59XG4jbWVkaWNhbGlzc3VlIHtcbiAgd2lkdGg6IDM1JTtcbn1cbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxBQUFBLEtBQUssQ0FBQTtFQUNILFVBQVUsRUFBRSxJQUFJO0VBQ2hCLFdBQVcsRUFBRSxJQUFJO0VBQ2pCLEtBQUssRUFBRSxNQUFNO0VBQ2IsYUFBYSxFQUFFLElBQUksR0FDcEI7O0FBQ0QsQUFBQSxJQUFJLENBQUM7RUFDSCxnQkFBZ0IsRUFBRSxrSUFBa0k7RUFDcEosaUJBQWlCLEVBQUUsU0FBUztFQUM1QixlQUFlLEVBQUUsS0FBSyxHQUV2Qjs7QUFDRCxBQUFBLE1BQU0sQ0FBQztFQUNMLFNBQVMsRUFBRSxJQUFJO0VBQ2YsS0FBSyxFQUFFLEVBQUUsR0FDVjs7QUFDRCxBQUFBLGFBQWEsQ0FBQztFQUNaLEtBQUssRUFBRSxHQUFHLEdBQ1gifQ== */
