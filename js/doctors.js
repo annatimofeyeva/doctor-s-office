@@ -19,8 +19,9 @@ Doctor.prototype.getDoctors = function(medicalIssue, doctorData) {
       console.log(results.data.length);
       console.log(results.meta);
       var doctorNames = doctorData.displayDoctorList(results.data.length, results.data);
+      $('#showDoctors').empty();
       doctorNames.forEach(function(name) {
-        $('#showDoctors').append('<li>' + name.profile.first_name + ' ' + name.profile.last_name + '</li>');
+        $('#showDoctors').append('<li>' + name.profile.first_name + ' ' + name.profile.last_name + ", " + name.profile.title + '</li>');
         console.log(name.profile.first_name + ' ' + name.profile.last_name);
       });
     })
