@@ -8,7 +8,7 @@
 
 ## Description
 
-_This is a JavaScript web app utilizing an API from https://developer.betterdoctor.com/.  The user is presented with a form where he can type a certain medical issue, i.e. "high blood pressure", sore throat, etc.  After clicking Submit button, a list of nearby doctors that can treat this medical issue is shown._
+_This is a JavaScript web app utilizing an API from https://developer.betterdoctor.com/.  The user is presented with a form where he can type a certain medical issue, i.e. "high blood pressure", "sore throat", etc.  After clicking Submit button, a list of nearby doctors that can treat this medical issue is shown._
 
 ## Setup/Installation Requirements
 
