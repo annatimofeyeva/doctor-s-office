@@ -1,6 +1,8 @@
 # _Doctors Office_
 
-#### _Doctors Office is a JavaScript web app that provides search for a nearby doctors in accordance with users's medical issues_  August 4, 2017_
+#### _Doctors Office is a JavaScript web app that provides search for a nearby doctors in accordance with users's medical issues._  
+
+####_August 4, 2017_
 
 #### By _**Anna Timofeeva**_
 
@@ -27,7 +29,7 @@ _This is a JavaScript web app utilizing an API from https://developer.betterdoct
 
 |Behavior - Plain English|Input|Output|
 |---|---|---|
-|User sees a search page with a input text field and a search button.|User inputs a symptom like 'soar throat' or 'rash' in the field.|User sees a list of appropriate doctors returned.|
+|User sees a search page with a input text field and a search button.|User inputs a symptom like 'soar throat' or 'blood pressure' in the field.|User sees a list of appropriate doctors returned.|
 
 ## Support and contact details
 
