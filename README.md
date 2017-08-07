@@ -2,7 +2,7 @@
 
 #### _Doctors Office is a JavaScript web app that provides search for a nearby doctors in accordance with users's medical issues._  
 
-####_August 4, 2017_
+#### _August 4, 2017_
 
 #### By _**Anna Timofeeva**_
 
